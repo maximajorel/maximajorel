@@ -1,6 +1,12 @@
 # 👋🏽 Sobre mí:
 
-Soy desarrollador fullstack MERN Junior. <br>Me encanta estar en constante aprendizaje y mantenerme activo con nuevos proyectos 🧑🏽‍💻.<br>Trabajé varios años con Wordpress, y ahora estoy listo para aplicar mis ideas desde cero escribiendo cada linea de código
+Mi nombre es Máximo Majorel, un desarrollador FullStack MERN Junior con base en Argentina. <br>
+Desde 2019 me he dedicado al desarrollo de páginas web utilizando WordPress, pero en 2023 di un salto de calidad al aprender a programar mis proyectos desde cero con el stack MERN. Gracias a esto, puedo ofrecer a mis clientes una experiencia personalizada y a medida para cada uno de ellos.
+
+Tengo experiencia trabajando con emprendedores que desean lanzar sus proyectos, así como con PyMEs. Mi enfoque principal es el diseño de sitios y aplicaciones web personalizados para cada cliente, lo que me ha permitido ganar su confianza y crecer juntos día a día.
+
+Me apasiona el aprendizaje constante de nuevas tecnologías que me ayuden a brindar soluciones de calidad. <br>
+Actualmente, estoy formando mi propio equipo de trabajo llamado "Radix", conformado por desarrolladores dispuestos a enfrentar nuevos desafíos en el desarrollo web, proximamente tendrán novedades sobre este proyecto 😉
 
 ## 🌐 Socials:
 
